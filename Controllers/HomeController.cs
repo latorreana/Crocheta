@@ -41,10 +41,10 @@ public class HomeController : Controller
         [HttpPost]
         public IActionResult Contato(Contato contato)
         {
-            if(string.IsNullOrEmpty(contato.nomeContato) 
-            || string.IsNullOrEmpty(contato.email)
-            || string.IsNullOrEmpty(contato.mensagem)
-            || string.IsNullOrEmpty(contato.telefone)) 
+            if(string.IsNullOrEmpty(value: contato.nomeContato) 
+            || string.IsNullOrEmpty(value: contato.email)
+            || string.IsNullOrEmpty(value: contato.mensagem)
+            || string.IsNullOrEmpty(value: contato.telefone)) 
             {
                 
                 ViewBag.Mensagem = "Preencha todos os campos.";
@@ -54,7 +54,7 @@ public class HomeController : Controller
             ContatoRepository repository = new ContatoRepository();
             repository.inserir(contato);
 
-            return RedirectToAction("Sucesso");
+            return RedirectToAction(actionName: "Sucesso");
         }
         public IActionResult Sucesso()
         {
@@ -64,6 +64,6 @@ public class HomeController : Controller
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        return View(model: new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }

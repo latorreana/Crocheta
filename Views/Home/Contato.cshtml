@@ -10,7 +10,8 @@
         <p class="cadastro">Entre em contato!</p>
         @* <form action="action_page.php"> *@
         <form method="POST" asp-action="Contato">
-            <input class="inputCadastro" type="text" placeholder="Nome" name="nome"><br>
+            <input type="hidden" asp-for="idContato">
+            <input class="inputCadastro" type="text" placeholder="Nome" name="nomeContato"><br>
             <input class="inputCadastro" type="text" placeholder="Telefone" name="telefone" id="telefone" onblur="validaTelefone()"><br>
             <input class="inputCadastro" type="text" placeholder="E-mail" name="email" id="campoEmail" onblur="validaEmail()"><br>
             <input class="inputCadastro" type="text" placeholder="Mensagem" name="mensagem" id="msgSAC"><br>            

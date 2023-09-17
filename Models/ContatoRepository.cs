@@ -16,7 +16,7 @@ namespace Crocheta.Models
 
             conexao.Open();
 
-            Console.WriteLine("Conectado com sucesso!");
+            Console.WriteLine(value: "Conectado com sucesso!");
 
             conexao.Close();
         }
@@ -54,9 +54,9 @@ namespace Crocheta.Models
             {
                 Contato novoContato = new Contato();
 
-                novoContato.idContato = reader.GetInt32("idContato");
+                novoContato.idContato = reader.GetInt32(name: "idContato");
 
-                if (!reader.IsDBNull(reader.GetOrdinal("nomeContato")))
+                if (!reader.IsDBNull(reader.GetOrdinal(name: "nomeContato")))
                     novoContato.nomeContato = reader.GetString("nomeContato");
 
                 if (!reader.IsDBNull(reader.GetOrdinal("telefone")))

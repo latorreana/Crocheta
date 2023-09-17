@@ -1,0 +1,28 @@
+@model List<Contato>
+
+    <h1>LISTA DE MENSAGENS</h1>
+
+    <table class="table"> 
+        <thead>
+            <tr>
+                <th>NomeContato</th>
+                <th>Telefone</th>
+                <th>E-mail</th>
+                <th>Mensagem</th>
+            </tr>
+        </thead>
+
+        @foreach (Contato contato in Model)
+        {
+            <tr>
+                <td>@contato.nomeContato</td>
+                <td>@contato.telefone</td>
+                <td>@contato.email</td>
+                <td>@contato.mensagem</td>
+                @* <td>
+                    <a href="/Usuario/Editar?Id=@u.idUsuario">Editar</a>/
+                    <a href="/Usuario/Deletar?Id=@u.idUsuario">Excluir</a>
+                </td> *@
+            </tr>
+        }
+    </table>
