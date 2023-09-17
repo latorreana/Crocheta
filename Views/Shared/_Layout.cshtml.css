@@ -1,0 +1,86 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+.banner {
+  justify-content:space-between;
+  display: flex;
+  align-items: center;
+  width: 90%;
+}
+
+#buscar {
+  background-image: url("/Imagens/procurar.png");
+  background-size: 15.0px;
+  background-repeat: no-repeat;
+  background-position: 95%;
+  padding-left: 1.3em;
+  padding-right: 1.3em;
+  border: 3px ridge #ffffff;
+  border-radius: 7px;
+}
+
+/* footer {
+  color: #BDBDAD;
+  margin-top: 30px;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  /* background-color: #E6DBD1; */
+  padding: 5px;
+  border-radius: 10px;
+  width: 90%;
+} */
+
+/* .rodape {
+  justify-content:space-evenly;
+  display: flex;
+} */
+
+
+
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #7A8978;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

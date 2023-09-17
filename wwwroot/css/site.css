@@ -1,0 +1,244 @@
+/* html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+body {
+  padding: 40px;
+  font-family: Comfortaa;
+}
+/* .logo {
+  justify-content: left;
+  display: flex;
+  align-items: center;
+}
+
+.banner {
+  background-color: white;
+  justify-content:space-evenly;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+  border-radius: 20px;
+  width: 90%;
+} */
+
+#buscar {
+  background-image: url("/Imagens/procurar.png");
+  background-size: 15.0px;
+  background-repeat: no-repeat;
+  background-position: 95%;
+  padding-left: 1.3em;
+  padding-right: 1.3em;
+  border: 3px ridge #ffffff;
+  border-radius: 7px;
+}
+
+.sobreMim{
+  align-items: center;
+  width: 80%;
+}
+
+.curso{
+  align-self: center
+}
+
+h1 {
+  color: #59350C;
+  text-align: center;
+  padding: 30px;
+}
+
+a {
+  color: #59350C;
+}
+
+.conjuntoProdutos {
+  display: flex;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+.produto {
+  text-align: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 2px solid #7a8978;
+  border-radius: 20px;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #E6DBD1;
+}
+
+.imagem {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  align-items: top;
+  border-radius: 15px;
+}
+
+.imagemProduto {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  align-items: top;
+}
+
+.descricaoProduto {
+  align-items: center;
+  font-size: x-large;
+  padding: 30px;
+}
+
+.button {
+  /* background-color: #59350C(156, 193, 163, 0.955); */
+  border-color: white;
+  border-style: solid;
+  border-radius: 7px;
+  color: black;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
+
+/* .container {
+  margin-top: 4%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  align-self: center;
+} */
+
+.alinhaImagem {
+  margin-top: 5%;
+  margin-left: 10%;
+}
+
+.alinhaFav {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 30%;
+}
+
+.favorito {
+  object-fit: cover;
+  padding: 30px;
+}
+
+.alinhaBotoes {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: left;
+}
+
+.contato {
+  /* background-color: rgba(144, 179, 151, 0.955); */
+  /* color: #D6EFC7; */
+  /* width: 700px;
+  height: 270px; */
+  padding: 20px;
+  padding-left: 60px;
+  padding-right: 50px;
+  border-radius: 10px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.cadastro {
+  color: black;
+  padding-left: 5px;
+  padding-right: 15px;
+  /* width: 200px; */
+}
+
+.cadastre-se {
+  display: flex;
+  justify-content: center;
+}
+
+.inputCadastro {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+/* .contatoSAC {
+  background-color: rgba(144, 179, 151, 0.955);
+  color: #D6EFC7;
+  width: 700px;
+  height: 230px;
+  padding: 20px;
+  padding-left: 60px;
+  border-radius: 10px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+} */
+
+#msgSAC {
+  height: 100px;
+}
+
+.inputSAC {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+body {
+  padding: 40px;
+  font-family: Comfortaa;
+}
+
+footer {
+  color: #BDBDAD;
+  margin-top: 30px;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  /* background-color: #E6DBD1; */
+  padding: 5px;
+  border-radius: 10px;
+  width: 90%;
+}
+
+.rodape {
+  justify-content:space-evenly;
+  display: flex;
+}

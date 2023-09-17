@@ -1,0 +1,617 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/obj/Debug/net7.0/scopedcss/projectbundle/Crocheta.bundle.scp.css",
+      "PackagePath": "staticwebassets/Crocheta.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/AgulhasSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/AgulhasSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Almofada1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Almofada1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/AlmofadaBSmall.png",
+      "PackagePath": "staticwebassets/Imagens/AlmofadaBSmall.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Almofadas2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Almofadas2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Almofadas3Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Almofadas3Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/AlmofadasSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/AlmofadasSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/AnelSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/AnelSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Apanhador2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Apanhador2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Apanhador3Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Apanhador3Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Apanhador4Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Apanhador4Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Apanhador5Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Apanhador5Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/ApanhadorSmall.png",
+      "PackagePath": "staticwebassets/Imagens/ApanhadorSmall.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bandeirinhas.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bandeirinhas.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bandeja1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bandeja1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bandeja2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bandeja2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bandeja3Small.png",
+      "PackagePath": "staticwebassets/Imagens/Bandeja3Small.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bandeja4Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bandeja4Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bandeja5Small.png",
+      "PackagePath": "staticwebassets/Imagens/Bandeja5Small.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bandeja6Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bandeja6Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa10.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa10.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa11Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa11Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa12Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa12Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa13Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa13Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa14Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa14Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa3Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa3Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa4Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa4Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa5Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa5Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa8Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa8Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Bolsa9Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Bolsa9Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/BolsaGatoSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/BolsaGatoSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo3Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo3Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo4Small 2.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo4Small 2.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo5Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo5Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo6Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo6Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo7Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo7Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cachepo8Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cachepo8Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/CachepoCoelhoASmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/CachepoCoelhoASmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/CachepoGatoSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/CachepoGatoSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/CachepoMiniSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/CachepoMiniSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/CacheposCoelhoSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/CacheposCoelhoSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/CestaPascoa2 Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/CestaPascoa2 Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/CestaPascoaSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/CestaPascoaSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cesto1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cesto1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Cesto2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Cesto2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Clutch1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Clutch1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Clutch2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Clutch2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Clutches2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Clutches2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Clutches3Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Clutches3Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/ClutchesSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/ClutchesSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/CoelhoSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/CoelhoSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Fabi1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Fabi1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Guirlanda2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Guirlanda2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/GuirlandaSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/GuirlandaSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Jogo-banheiro2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Jogo-banheiro2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Jogo-banheiroSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Jogo-banheiroSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericano2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericano2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericano3Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericano3Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericano5Small 2.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericano5Small 2.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericano5Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericano5Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericano6Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericano6Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericano7Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericano7Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericano8Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericano8Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoAmericanoSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoAmericanoSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogoaAmericano4Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogoaAmericano4Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/JogosAmericanosSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/JogosAmericanosSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Logo_semfundo.png",
+      "PackagePath": "staticwebassets/Imagens/Logo_semfundo.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-coisas1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-coisas1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-coisas2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-coisas2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-coisas3ASmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-coisas3ASmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-coisas3BSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-coisas3BSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-coisas3Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-coisas3Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-coisas4Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-coisas4Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-copos1Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-copos1Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-copos2Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-copos2Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-coposSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-coposSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/Porta-oculosSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/Porta-oculosSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/PortaCoisas5Small.jpeg",
+      "PackagePath": "staticwebassets/Imagens/PortaCoisas5Small.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/PortaPanetoneSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/PortaPanetoneSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/SinosSmall.jpeg",
+      "PackagePath": "staticwebassets/Imagens/SinosSmall.jpeg"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/envelope.png",
+      "PackagePath": "staticwebassets/Imagens/envelope.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/instagram.png",
+      "PackagePath": "staticwebassets/Imagens/instagram.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/logo_crocheta.png",
+      "PackagePath": "staticwebassets/Imagens/logo_crocheta.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/procurar.png",
+      "PackagePath": "staticwebassets/Imagens/procurar.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/user.png",
+      "PackagePath": "staticwebassets/Imagens/user.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/Imagens/whatsapp.png",
+      "PackagePath": "staticwebassets/Imagens/whatsapp.png"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Crocheta.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Crocheta.props",
+      "PackagePath": "build\\Crocheta.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Crocheta.props",
+      "PackagePath": "buildMultiTargeting\\Crocheta.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Crocheta.props",
+      "PackagePath": "buildTransitive\\Crocheta.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

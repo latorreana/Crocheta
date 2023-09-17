@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQjryWr1x6PgBVkwG1rXXEYVylPB3WZ5ZRBV1zcdjI9QwqxUPrWMX/xciIelO3ebWKTcD1tMdsPwxSislVv/uw==",
+  "success": true,
+  "projectFilePath": "/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Crocheta.csproj",
+  "expectedPackageFiles": [
+    "/Users/analatorre/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}

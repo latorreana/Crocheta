@@ -1,0 +1,19 @@
+@model Usuario
+
+<form method="POST" asp-action="Login">
+    <div align="center">
+        <h3>Informe seus dados para realizar login:</h3>
+        <p>
+        <p>Login:</p>
+        <input asp-for="login">
+        </p>
+        <p>
+        <p>Senha:</p>
+        <input asp-for="senha">
+        </p>
+        <p>
+            <input type="submit" value="Acessar">
+        </p>
+    </div>
+</form>
+<p id="Mensagem" style="color: red">@ViewBag.Mensagem</p>

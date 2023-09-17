@@ -1,0 +1,22 @@
+@model Contato;
+@{
+    ViewData["Title"] = "contato";
+}
+
+<div class="cadastre-se">
+    <div class="contato">
+        <img class="imagem" src="/Imagens/Almofada1Small.jpeg">
+        <img src=" /Imagens/envelope.png" height="80px" width="80px" alt="Envelope">
+        <p class="cadastro">Entre em contato!</p>
+        @* <form action="action_page.php"> *@
+        <form method="POST" asp-action="Contato">
+            <input class="inputCadastro" type="text" placeholder="Nome" name="nome"><br>
+            <input class="inputCadastro" type="text" placeholder="Telefone" name="telefone" id="telefone" onblur="validaTelefone()"><br>
+            <input class="inputCadastro" type="text" placeholder="E-mail" name="email" id="campoEmail" onblur="validaEmail()"><br>
+            <input class="inputCadastro" type="text" placeholder="Mensagem" name="mensagem" id="msgSAC"><br>            
+            <button class="button">Enviar</button>
+        </form>
+    </div>
+</div>
+
+        <p id="Mensagem" style="color:red">@ViewBag.Mensagem</p>

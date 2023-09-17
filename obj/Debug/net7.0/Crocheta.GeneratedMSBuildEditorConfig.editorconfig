@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Crocheta
+build_property.RootNamespace = Crocheta
+build_property.ProjectDir = /Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Home/Bolsas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Cb2xzYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Home/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Home/Cursos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DdXJzb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Home/HD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9IRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Home/SobreMim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Tb2JyZU1pbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Home/Sucesso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TdWNlc3NvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Usuario/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9MaXN0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/analatorre/Documents/SENAC/Projeto_Integrador/Crocheta/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j1f5pxmysi
