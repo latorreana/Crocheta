@@ -2,42 +2,16 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 .banner {
-  justify-content:space-between;
+  justify-content: space-around;
   display: flex;
   align-items: center;
   width: 90%;
 }
-
-#buscar {
-  background-image: url("/Imagens/procurar.png");
-  background-size: 15.0px;
-  background-repeat: no-repeat;
-  background-position: 95%;
-  padding-left: 1.3em;
-  padding-right: 1.3em;
-  border: 3px ridge #ffffff;
-  border-radius: 7px;
-}
-
-/* footer {
-  color: #BDBDAD;
-  margin-top: 30px;
-  align-content: center;
-  text-align: center;
-  align-items: center;
-  /* background-color: #E6DBD1; */
-  padding: 5px;
-  border-radius: 10px;
-  width: 90%;
-} */
 
 /* .rodape {
   justify-content:space-evenly;
   display: flex;
 } */
-
-
-
 
 a.navbar-brand {
   white-space: normal;
@@ -77,10 +51,10 @@ button.accept-policy {
   line-height: inherit;
 }
 
-.footer {
+/* .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
-}
+} */

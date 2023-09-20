@@ -214,7 +214,7 @@ a {
 }
 
 .inputSAC {
-  width: 40%;
+  width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   border: 1px solid #ccc;
@@ -236,9 +236,6 @@ footer {
   padding: 5px;
   border-radius: 10px;
   width: 90%;
-}
-
-.rodape {
   justify-content:space-evenly;
   display: flex;
 }
