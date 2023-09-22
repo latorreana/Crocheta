@@ -53,7 +53,7 @@ body {
   border-radius: 7px;
 }
 
-.sobreMim{
+#sobreMim{
   align-items: center;
   width: 80%;
 }
@@ -177,16 +177,18 @@ a {
   color: black;
   padding-left: 5px;
   padding-right: 15px;
-  /* width: 200px; */
+  width: 200px;
 }
 
 .cadastre-se {
-  display: flex;
+  /* display: flex; */
   justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .inputCadastro {
-  width: 100%;
+  width: 65%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -237,5 +239,5 @@ footer {
   border-radius: 10px;
   width: 90%;
   justify-content:space-evenly;
-  display: flex;
+  /* display: flex; */
 }
