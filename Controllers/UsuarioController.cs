@@ -10,6 +10,11 @@ namespace Crocheta.Controllers
 {
     public class UsuarioController : Controller
     {
+        private readonly UsuarioRepository _usuarioRepository;
+        public UsuarioController()
+        {
+            _usuarioRepository = new UsuarioRepository();
+        }
         public IActionResult Login()
         {
             return View();
@@ -17,26 +22,29 @@ namespace Crocheta.Controllers
         [HttpPost]
         public IActionResult Login(Usuario u)
         {
-            UsuarioRepository uR = new UsuarioRepository();
-
-            Usuario UsuarioLogado = uR.validarLogin(u);
-
-            if(UsuarioLogado == null)
+            if (ModelState.IsValid)
             {
-               ViewBag.Mensagem = "Falha no login";
-               return View(); 
+                Usuario UsuarioLogado = _usuarioRepository.validarLogin(u);
 
-            } else {
-                HttpContext.Session.SetInt32(key: "idUsuario", value: UsuarioLogado.idUsuario);
-                HttpContext.Session.SetString(key: "nomeUsuario", value: UsuarioLogado.nome);
-
-                return View(); 
+                if (UsuarioLogado != null)
+                {
+                    HttpContext.Session.SetInt32(key: "idUsuario", value: UsuarioLogado.idUsuario);
+                    HttpContext.Session.SetString(key: "nomeUsuario", value: UsuarioLogado.nome);
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Falha no login. Tente novamente.");
+                }
             }
+
+            return View(u);
         }
+
         public IActionResult Listar()
         {
             if(HttpContext.Session.GetInt32(key: "idUsuario") == null)
-                return RedirectToAction(actionName: "Login");
+            return RedirectToAction(actionName: "Login");
 
             ContatoRepository contato = new ContatoRepository();
             return View(model: contato.listar());

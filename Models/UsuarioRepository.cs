@@ -8,7 +8,7 @@ namespace Crocheta.Models
 {
     public class UsuarioRepository
     {
-      private const string dadosConexao = "Database = Crocheta; Data Source = localhost; User Id = root";
+        private const string dadosConexao = "Database = Crocheta; Data Source = localhost; User Id = root";
 
         public void testeConexao()
         {
@@ -23,36 +23,41 @@ namespace Crocheta.Models
 
         public Usuario validarLogin(Usuario u)
         {
-            Usuario UsuarioLogado = null;
+            Usuario usuarioLogado = null;
 
-            MySqlConnection conexao = new MySqlConnection(connectionString: dadosConexao);
-            conexao.Open();
-
-            string query = "SELECT * FROM Usuario WHERE login = @login AND senha = @senha";
-            MySqlCommand comando = new MySqlCommand(commandText: query, connection: conexao);
-            
-            comando.Parameters.AddWithValue(parameterName: "@login", value: u.login);
-            comando.Parameters.AddWithValue(parameterName: "@senha", value: u.senha);
-
-            using MySqlDataReader reader = comando.ExecuteReader();
-
-            if(reader.Read())
+            using MySqlConnection conexao = new MySqlConnection(connectionString: dadosConexao);
             {
-                UsuarioLogado = new Usuario();
-                
-                UsuarioLogado.idUsuario = reader.GetInt32(name: "idUsuario");
+                conexao.Open();
 
-                if(!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "nome")))
-                UsuarioLogado.nome = reader.GetString(name: "nome");
+                string query = "SELECT * FROM Usuario WHERE login = @login AND senha = @senha";
+                MySqlCommand comando = new MySqlCommand(query, conexao);
 
-                if(!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "login")))
-                UsuarioLogado.login = reader.GetString(name: "login");
+                comando.Parameters.AddWithValue(parameterName: "@login", value: u.login);
+                comando.Parameters.AddWithValue(parameterName: "@senha", value: u.senha);
 
-                if(!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "senha")))
-                UsuarioLogado.senha = reader.GetString(name: "senha");
+                using MySqlDataReader reader = comando.ExecuteReader();
+
+                if (reader.Read())
+                {
+                    usuarioLogado = new Usuario();
+
+                    usuarioLogado.idUsuario = reader.GetInt32(name: "idUsuario");
+
+                    // if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "nome")))
+                    //     usuarioLogado.nome = reader.GetString(name: "nome");
+
+                    if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "login")))
+                        usuarioLogado.login = reader.GetString(name: "login");
+
+                    if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "senha")))
+                        usuarioLogado.senha = reader.GetString(name: "senha");
+                    
+                    // if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "dataNascimento")))
+                    //     usuarioLogado.dataNascimento = reader.GetDateTime(name: "dataNascimento");
+                }
+                conexao.Close();
+                return usuarioLogado;
             }
-            conexao.Close();
-            return UsuarioLogado;
         }
     }
 }

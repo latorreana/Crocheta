@@ -20,7 +20,6 @@ body {
 }
 
 .sobreMim{
-  /* width: 60%; */
   margin-bottom: 70px;
   text-align: center;
 }
@@ -82,7 +81,6 @@ a {
 }
 
 .button {
-  /* background-color: #59350C(156, 193, 163, 0.955); */
   border-color: white;
   border-style: solid;
   border-radius: 7px;
@@ -96,22 +94,9 @@ a {
   cursor: pointer;
 }
 
-/* .container {
-  margin-top: 4%;
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  align-self: center;
-} */
-
 .alinhaImagem {
   margin-top: 5%;
   margin-left: 10%;
-}
-
-/* .alinhaFav {
-  display: flex;
-  justify-content: space-between;
-  margin-right: 30%;
 }
 
 .favorito {
@@ -124,13 +109,9 @@ a {
   margin-bottom: 50px;
   display: flex;
   justify-content: left;
-} */
+}
 
 .contato {
-  /* background-color: rgba(144, 179, 151, 0.955); */
-  /* color: #D6EFC7; */
-  /* width: 700px;
-  height: 270px; */
   padding: 20px;
   padding-left: 60px;
   padding-right: 50px;
@@ -178,7 +159,7 @@ a {
 }
 
 .inputSAC {
-  width: 100%;
+  width: 300px;
   padding: 12px 20px;
   margin: 8px 0;
   border: 1px solid #ccc;
@@ -196,9 +177,7 @@ footer {
   align-content: center;
   text-align: center;
   align-items: center;
-  /* background-color: #E6DBD1; */
   padding: 5px;
   border-radius: 10px;
   justify-content:space-evenly;
-  /* display: flex; */
 }
