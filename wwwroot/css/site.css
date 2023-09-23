@@ -13,11 +13,16 @@ body {
   margin-bottom: 50px;
   border-radius: 20px;
   width: 90%;
-} */
+}
 
-#sobreMim{
-  align-items: center;
-  width: 80%;
+.insta{
+  margin-right: 30px;
+}
+
+.sobreMim{
+  /* width: 60%; */
+  margin-bottom: 70px;
+  text-align: center;
 }
 
 .curso{
