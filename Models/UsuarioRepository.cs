@@ -37,14 +37,14 @@ namespace Crocheta.Models
 
                 using MySqlDataReader reader = comando.ExecuteReader();
 
+                usuarioLogado = new Usuario();
                 if (reader.Read())
                 {
-                    usuarioLogado = new Usuario();
 
                     usuarioLogado.idUsuario = reader.GetInt32(name: "idUsuario");
 
-                    // if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "nome")))
-                    //     usuarioLogado.nome = reader.GetString(name: "nome");
+                    if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "nome")))
+                        usuarioLogado.nome = reader.GetString(name: "nome");
 
                     if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "login")))
                         usuarioLogado.login = reader.GetString(name: "login");
@@ -52,8 +52,8 @@ namespace Crocheta.Models
                     if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "senha")))
                         usuarioLogado.senha = reader.GetString(name: "senha");
                     
-                    // if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "dataNascimento")))
-                    //     usuarioLogado.dataNascimento = reader.GetDateTime(name: "dataNascimento");
+                    if (!reader.IsDBNull(ordinal: reader.GetOrdinal(name: "dataNascimento")))
+                        usuarioLogado.dataNascimento = reader.GetDateTime(name: "dataNascimento");
                 }
                 conexao.Close();
                 return usuarioLogado;
