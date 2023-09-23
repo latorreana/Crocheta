@@ -17,30 +17,16 @@
 
 <body>
     <header class="container-fluid">
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="banner">
+            <div class="banner row">
                     <div class=col-10>
-                        <a asp-controller="Home" asp-action="Index"><img height=200px; src="Imagens/logo_crocheta.png" alt="Logo da crocheta"></a>
-                        @* <input style="width: 300px; height: 40px" type="text" placeholder="Busca" id="buscar"> *@
+                        <a asp-controller="Home" asp-action="Index"><img height=200px; src="../Imagens/logo_crocheta.png" alt="Logo da crocheta"></a>
                     </div>
                 
-                    <div class="col-2" id="insta">
-                        <a href="https://www.instagram.com/crochetadesign/"><img height=30px; src="Imagens/instagram.png" alt="Ícone Instagram"></a>
-                        <a href="https://api.whatsapp.com/send?phone=5548991469399&text=Ol%C3%A1%3F%20Como%20fa%C3%A7o%20para%20adquirir%20uma%20pe%C3%A7a%20Crocheta%3F"><img height=30px; src="Imagens/whatsapp.png" alt="Ícone Whatsapp"></a>
+                    <div class=" col-2">
+                        <a href="https://www.instagram.com/crochetadesign/"><img height=30px; src="../Imagens/instagram.png" alt="Ícone Instagram"></a>
+                        <a href="https://api.whatsapp.com/send?phone=5548991469399&text=Ol%C3%A1%3F%20Como%20fa%C3%A7o%20para%20adquirir%20uma%20pe%C3%A7a%20Crocheta%3F"><img height=30px; src="../Imagens/whatsapp.png" alt="Ícone Whatsapp"></a>
                     </div>
-
-                @* <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div> *@
             </div>
-        </nav>
     </header>
     
     <div class="container">
@@ -49,12 +35,11 @@
         </main>
     </div>
 
-    <footer class="rodapé">
-        <div class="container">
-            &copy; 2023 - crocheta <a asp-area="" asp-controller="Home" asp-action="SobreMim">sobre mim</a>
-            <a asp-area="" asp-controller="Home" asp-action="Contato">contato</a>
-            <a asp-area="" asp-controller="Usuario" asp-action="Login">login</a>
-        </div>
+    <footer class="row">
+        <p class="col">&copy; 2023 - crocheta</p>
+        <a class="col" asp-area="" asp-controller="Home" asp-action="SobreMim">sobre mim</a>
+        <a class="col" asp-area="" asp-controller="Home" asp-action="Contato">contato</a>
+        <a class="col" asp-area="" asp-controller="Usuario" asp-action="Login">login</a>
     </footer>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

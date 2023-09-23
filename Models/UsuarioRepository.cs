@@ -23,6 +23,8 @@ namespace Crocheta.Models
 
         public Usuario validarLogin(Usuario u)
         {
+            Usuario UsuarioLogado = null;
+
             MySqlConnection conexao = new MySqlConnection(connectionString: dadosConexao);
             conexao.Open();
 
@@ -32,11 +34,9 @@ namespace Crocheta.Models
             comando.Parameters.AddWithValue(parameterName: "@login", value: u.login);
             comando.Parameters.AddWithValue(parameterName: "@senha", value: u.senha);
 
-            MySqlDataReader reader = comando.ExecuteReader();
+            using MySqlDataReader reader = comando.ExecuteReader();
 
-            Usuario UsuarioLogado = null;
-
-            while(reader.Read())
+            if(reader.Read())
             {
                 UsuarioLogado = new Usuario();
                 

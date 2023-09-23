@@ -2,12 +2,9 @@
 @{
     ViewData["Title"] = "contato";
 }
-
-<div class="cadastre-se">
-    <div class="container-grid">
-        <div class="row">
-            <img class="imagem" src="/Imagens/Almofada1Small.jpeg">
-        </div>
+<div class="container-grid">
+    <div align="center">
+        <img class="imagem" src="/Imagens/Almofada1Small.jpeg">
         <br>
         <br>
         <div class="row">
@@ -15,13 +12,15 @@
             <form method="POST" asp-action="Contato">
                 <input type="hidden" asp-for="idContato">
                 <input class="inputCadastro" type="text" placeholder="Nome" name="nomeContato"><br>
-                <input class="inputCadastro" type="text" placeholder="Telefone" name="telefone" id="telefone" onblur="validaTelefone()"><br>
-                <input class="inputCadastro" type="text" placeholder="E-mail" name="email" id="campoEmail" onblur="validaEmail()"><br>
-                <input class="inputCadastro" type="text" placeholder="Mensagem" name="mensagem" id="msgSAC"><br>            
+                <input class="inputCadastro" type="text" placeholder="Telefone" name="telefone" id="telefone"
+                    onblur="validaTelefone()"><br>
+                <input class="inputCadastro" type="text" placeholder="E-mail" name="email" id="campoEmail"
+                    onblur="validaEmail()"><br>
+                <input class="inputCadastro" type="text" placeholder="Mensagem" name="mensagem" id="msgSAC"><br>
                 <button class="button">Enviar</button>
-            </form>    
+            </form>
         </div>
     </div>
 </div>
 
-        <p id="Mensagem" align="center" style="color:red">@ViewBag.Mensagem</p>
+<p id="Mensagem" align="center" style="color:red">@ViewBag.Mensagem</p>

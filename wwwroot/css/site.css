@@ -1,35 +1,8 @@
-/* html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  margin-bottom: 60px;
-} */
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
 
 body {
   padding: 40px;
   font-family: Comfortaa;
-}
-/* .logo {
-  justify-content: left;
-  display: flex;
-  align-items: center;
 }
 
 .banner {
@@ -41,17 +14,6 @@ body {
   border-radius: 20px;
   width: 90%;
 } */
-
-#buscar {
-  background-image: url("/Imagens/procurar.png");
-  background-size: 15.0px;
-  background-repeat: no-repeat;
-  background-position: 95%;
-  padding-left: 1.3em;
-  padding-right: 1.3em;
-  border: 3px ridge #ffffff;
-  border-radius: 7px;
-}
 
 #sobreMim{
   align-items: center;
@@ -141,7 +103,7 @@ a {
   margin-left: 10%;
 }
 
-.alinhaFav {
+/* .alinhaFav {
   display: flex;
   justify-content: space-between;
   margin-right: 30%;
@@ -157,7 +119,7 @@ a {
   margin-bottom: 50px;
   display: flex;
   justify-content: left;
-}
+} */
 
 .contato {
   /* background-color: rgba(144, 179, 151, 0.955); */
@@ -181,10 +143,7 @@ a {
 }
 
 .cadastre-se {
-  /* display: flex; */
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
+  align-content: center;
 }
 
 .inputCadastro {
@@ -198,18 +157,16 @@ a {
   justify-content: center;
 }
 
-/* .contatoSAC {
-  background-color: rgba(144, 179, 151, 0.955);
-  color: #D6EFC7;
-  width: 700px;
-  height: 230px;
+.loginBox {
+  background-color: #e0e0da;
+  width: 800px;
+  height: 300px;
   padding: 20px;
-  padding-left: 60px;
   border-radius: 10px;
-  display: flex;
   text-align: center;
   align-items: center;
-} */
+  margin-bottom: 100px;
+}
 
 #msgSAC {
   height: 100px;
@@ -237,7 +194,6 @@ footer {
   /* background-color: #E6DBD1; */
   padding: 5px;
   border-radius: 10px;
-  width: 90%;
   justify-content:space-evenly;
   /* display: flex; */
 }
