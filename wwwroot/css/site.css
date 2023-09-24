@@ -5,15 +5,14 @@ body {
   font-family: Comfortaa;
 }
 
-.banner {
+/* .banner {
   background-color: white;
   justify-content:space-evenly;
   display: flex;
   align-items: center;
   margin-bottom: 50px;
   border-radius: 20px;
-  width: 90%;
-}
+} */
 
 .insta{
   margin-right: 30px;
